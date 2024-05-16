@@ -1,5 +1,3 @@
-### Template
-
 ```markdown
 # Mentes Algorítmicas: O Poder da Lógica na Programação
 
